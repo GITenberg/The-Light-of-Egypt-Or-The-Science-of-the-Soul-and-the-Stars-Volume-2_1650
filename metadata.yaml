@@ -1,0 +1,24 @@
+_repo: The-Light-of-Egypt-Or-The-Science-of-the-Soul-and-the-Stars-Volume-2_1650
+creator:
+  authors:
+  - agent_name: Wagner, Belle M.
+    gutenberg_agent_id: '681'
+    url: http://www.gutenberg.org/2009/agents/681
+  - agent_name: Burgoyne, Thomas H.
+    gutenberg_agent_id: '680'
+    url: http://www.gutenberg.org/2009/agents/680
+description: ''
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Astrology'
+- !lcsh 'Occultism'
+title: The Light of Egypt; Or, The Science of the Soul and the Stars — Volume 2
+url: http://www.gutenberg.org/ebooks/1650
