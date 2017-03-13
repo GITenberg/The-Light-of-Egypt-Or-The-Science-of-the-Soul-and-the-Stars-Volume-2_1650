@@ -1,5 +1,8 @@
 _repo: The-Light-of-Egypt-Or-The-Science-of-the-Soul-and-the-Stars-Volume-2_1650
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wagner, Belle M.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '680'
     url: http://www.gutenberg.org/2009/agents/680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1650#The-Light-of-Egypt-Or-The-Science-of-the-Soul-and-the-Stars-Volume-2
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
 identifiers:
