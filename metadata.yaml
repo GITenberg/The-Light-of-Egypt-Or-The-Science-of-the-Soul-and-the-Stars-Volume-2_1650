@@ -1,5 +1,5 @@
 _repo: The-Light-of-Egypt-Or-The-Science-of-the-Soul-and-the-Stars-Volume-2_1650
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'BF'
 - !lcsh 'Astrology'
 - !lcsh 'Occultism'
+- GITenberg
 title: The Light of Egypt; Or, The Science of the Soul and the Stars — Volume 2
 url: http://www.gutenberg.org/ebooks/1650
